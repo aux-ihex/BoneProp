@@ -1,0 +1,17 @@
+{
+  "name": "com.aux-ihex.bone-prop",
+  "displayName": "Bone Prop",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "Physbone stretch and constraint based prop pickup",
+  "vrchatVersion": "2022.1.1",
+  "author": {
+    "name": "Momo the Monster",
+    "email": "momodmonster@gmail.com",
+    "url": "https://mmmlabs.com"
+  },
+  "unityRelease": "22f1",
+  "dependencies": {
+    "com.vrcfury.vrcfury": "1.1150.0"
+  }
+}

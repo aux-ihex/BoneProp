@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.aux-ihex.bone-prop": {
+      "version": "file:com.vrchat.demo-template",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.vrcfury.vrcfury": "1.1150.0"
+      }
+    },
     "com.unity.ai.navigation": {
       "version": "1.1.5",
       "depth": 0,
@@ -213,12 +221,6 @@
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "3.0.2"
       }
-    },
-    "com.vrchat.demo-template": {
-      "version": "file:com.vrchat.demo-template",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
