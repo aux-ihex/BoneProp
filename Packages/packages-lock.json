@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.aux-ihex.bone-prop": {
-      "version": "file:com.vrchat.demo-template",
+      "version": "file:com.aux-ihex.bone-prop",
       "depth": 0,
       "source": "embedded",
       "dependencies": {

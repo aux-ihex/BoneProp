@@ -29,7 +29,7 @@ MonoBehaviour:
     type: 102
     parameter:
       name: Show
-    value: 0
+    value: 1
     style: 0
     subMenu: {fileID: 0}
     subParameters: []
