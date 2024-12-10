@@ -6,9 +6,9 @@
   "description": "Physbone stretch and constraint based prop pickup",
   "vrchatVersion": "2022.1.1",
   "author": {
-    "name": "Momo the Monster",
-    "email": "momodmonster@gmail.com",
-    "url": "https://mmmlabs.com"
+    "name": "aux.ihex",
+    "email": "aux.ihex@gmail.com",
+    "url": "https://github.com/aux-ihex"
   },
   "unityRelease": "22f1",
   "dependencies": {
